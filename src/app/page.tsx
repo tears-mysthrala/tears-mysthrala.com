@@ -69,7 +69,7 @@ export default function Home() {
             </span>
           </h2>
           <p className="m-0 max-w-[30ch] text-sm opacity-50">
-            Learn about myself and why I'm a good person to work with.
+            Learn about myself and why I&apos;m a good person to work with.
           </p>
         </a>
 
